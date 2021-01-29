@@ -4,8 +4,8 @@ Took the dataset from kaggle. And tried to predict the survival accuracy through
 
 the three classifiers are:-
 
-Logistic Regression 
+1. Logistic Regression 
 
-Decision Tree
+2. Decision Tree
 
-Gaussian Naive Bayes 
+3. Gaussian Naive Bayes 
